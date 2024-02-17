@@ -18,12 +18,12 @@ export function ExerciseCard({ ...rest }: Props) {
           h={16}
           rounded="md"
           mr={4}
-          resizeMode="center"
+          resizeMode="cover"
         />
 
         <VStack flex={1}>
           <Heading fontSize="lg" color="white">
-            Remanda unilateral
+            Remada unilateral
           </Heading>
 
           <Text fontSize="sm" color="gray.200" mt={1} numberOfLines={2}>
