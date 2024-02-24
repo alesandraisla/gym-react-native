@@ -12,8 +12,9 @@
 ## Tela
 
 <div align="center">
-    <img src="./src/assets/telaHome.svg" width="200px" align="center" > 
+    <img src="./src/assets/telaHome.png" width="200px" align="center" > 
     <img src="./src/assets/telaExercicios.png" width="200px" align="center" > 
+    <img src="./src/assets/telaSobre.png" width="200px" align="center" > 
     <img src="./src/assets/telaPerfil.png" width="200px" align="center" > 
 </div>
 
