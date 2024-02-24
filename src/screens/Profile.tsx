@@ -85,7 +85,7 @@ export function Profile() {
           <Input bg="gray.600" placeholder='E-mail' isDisabled />
         </Center>
         <VStack px={10} mt={12} mb={9}>
-          <Heading color="gray.200" fontSize="md" mb={2} >
+          <Heading color="gray.200" fontSize="md" mb={2} alignSelf="flex-start" mt={12} fontFamily="heading">
             Alterar Senha
           </Heading>
           <Input 

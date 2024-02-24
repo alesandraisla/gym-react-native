@@ -6,7 +6,8 @@ type Props = IInputProps & {
 
 export function Input({ errorMessage = null, isInvalid, ...rest }: Props) {
   const invalid = !!errorMessage || isInvalid;
-  return(
+
+  return (
     <FormControl isInvalid={invalid} mb={4}>
       <NativeBaseInput 
         bg="gray.700"
@@ -30,10 +31,9 @@ export function Input({ errorMessage = null, isInvalid, ...rest }: Props) {
         {...rest}
       />
 
-      <FormControl.ErrorMessage>
+      <FormControl.ErrorMessage _text={{ color: 'red.500' }}>
         {errorMessage}
       </FormControl.ErrorMessage>
     </FormControl>
-
-  )
+  );
 }
