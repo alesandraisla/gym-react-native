@@ -1,4 +1,6 @@
-# Aplicacáo Gym em React Native
+# Aplicacão Gym em React Native
+
+App para academias
 
 ## Ferramentas utilizadas
 
