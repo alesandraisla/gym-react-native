@@ -12,5 +12,13 @@
 ## Tela
 
 <div align="center">
-    <img src="./src/assets/telas.mp4" width="200px" align="center" > 
+    <img src="./src/assets/telaHome.svg" width="200px" align="center" > 
+    <img src="./src/assets/telaExercicios.png" width="200px" align="center" > 
+    <img src="./src/assets/telaPerfil.png" width="200px" align="center" > 
 </div>
+
+
+<video width="320" height="240" controls>
+  <source src="./src/assets/telas.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
