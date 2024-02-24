@@ -4,11 +4,11 @@ App para academias
 
 ## Ferramentas utilizadas
 
--> Expo
--> NativeBase
--> Stack Navigator
--> Image Picker e File System
--> React Hook Form e Schema Validation
+-> Expo <br>
+-> NativeBase <br>
+-> Stack Navigator <br>
+-> Image Picker e File System <br>
+-> React Hook Form e Schema Validation<br>
 
 
 ## Tela
